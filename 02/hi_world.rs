@@ -1,1 +1,3 @@
-Wait I don't know rust yet.
+fn main() {
+    println!("Hello, world!");
+}
